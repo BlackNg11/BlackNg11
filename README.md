@@ -1,7 +1,9 @@
-## Hi There  :smile:
+## Hi There :smile:
 
 Welcome to my page github!
+
 I'm Den Nguyen,Front-end developer from VietNam
+
 Currently living in Ho Chi Minh city,VietNam.
 
 My favourites tech: 
