@@ -18,6 +18,6 @@ And tools like:
 
 Contact me:
 
-[<img alt="Facebook" src="https://img.shields.io/badge/Facebook%20-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white"/>](https://www.facebook.com/gi.ka.988/)
+[<img alt="Facebook" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/den-nguyen/)
 
 
