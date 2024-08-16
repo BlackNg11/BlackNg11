@@ -5,7 +5,7 @@ Welcome to my page github!
 
 <img align="right" src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" width="300px" height="300px"/>
 
-I'm Den Nguyen,Front-end developer from VietNam :smile_cat: .Like creating modern web apps.Beside's programming, I enjoy playing with cat :cat: and read some newest about Teach
+I'm Den Nguyen,Full-stack developer from VietNam :smile_cat: .Like creating modern web apps.Beside's programming, I enjoy playing with cat :cat: and read some newest about Teach
 
 
 
